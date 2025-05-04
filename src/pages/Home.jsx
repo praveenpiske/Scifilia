@@ -34,27 +34,27 @@ const Home = () => {
     {
       link: "explore/physics",
       text: "Physics",
-      image: "/public/images/physics-corousel.jpg",
+      image: "/images/physics-corousel.jpg",
     },
     {
       link: "explore/chemistry",
       text: "chemistry",
-      image: "/public/images/chemistry-corousel.jpg",
+      image: "/images/chemistry-corousel.jpg",
     },
     {
       link: "explore/biology",
       text: "Biology",
-      image: "/public/images/biology-carousel.png",
+      image: "/images/biology-carousel.png",
     },
     {
       link: "explore/modern",
       text: "Modern",
-      image: "/public/images/modern-carousel.png",
+      image: "/images/modern-carousel.png",
     },
     {
       link: "explore/cars",
       text: "Cars",
-      image: "/public/images/car-carousel.png",
+      image: "/images/car-carousel.png",
     },
   ];
 
